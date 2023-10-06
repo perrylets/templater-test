@@ -1,0 +1,8 @@
+{
+  "$schema": "https://schemas.perry.dev.br/templater.json",
+  "name": "Test template",
+  "ecosystem": "Other",
+  "files": [
+    "README.md"
+  ]
+}
